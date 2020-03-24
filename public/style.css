@@ -1,0 +1,30 @@
+body{
+  background:url('blackPhone.jpg');
+  text-align: center;
+  font-family: 'Bellota', cursive;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 30%;
+
+}
+.page-header{
+  padding-bottom: 9px;
+    margin: 36px 0 18px;
+    margin-right: 58%;
+    border-bottom: 1px solid #eee;
+
+}
+.messages{
+  background-color: white;
+  border-radius: 15%;
+  width:30%;
+  margin-left: 30%;
+  border:2px solid black;
+}
+input{
+    border:2px solid black;
+      border-radius: 15%;
+}
+h3{
+  margin-top: 40px;
+}
